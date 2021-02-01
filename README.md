@@ -1,5 +1,5 @@
 # PyBer Analysis
-##Purpose of the new analysis
+## Purpose of the new Analysis
 As a starter, the purpose of the new analysis was to determine the total number of rides, drivers and fares in the three different types of cities. Also, to further understand the Fares/charges we found the average fare per ride and also the average fare per driver in the three diffferent types of cities. Furthermore, we determined what the weekly total fare was for the three different types of cities over a period of four months.
 
 ## Results of the Analysis
